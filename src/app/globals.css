@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -18,4 +18,46 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+} */
+
+.neon-icon {
+  filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.8))
+    drop-shadow(0 0 5px rgba(255, 255, 255, 0.7))
+    drop-shadow(0 0 10px rgba(255, 255, 255, 0.6));
+}
+
+/* Specific icon color adjustments */
+.neon-icon.text-blue-400 {
+  /* Tailwind CSS Icon */
+  filter: drop-shadow(0 0 2px rgba(0, 0, 255, 0.8))
+    drop-shadow(0 0 5px rgba(0, 0, 255, 0.7))
+    drop-shadow(0 0 10px rgba(0, 0, 255, 0.6));
+}
+
+.neon-icon.text-blue-500 {
+  /* React Icon */
+  filter: drop-shadow(0 0 2px rgba(0, 0, 255, 0.8))
+    drop-shadow(0 0 5px rgba(0, 0, 255, 0.7))
+    drop-shadow(0 0 10px rgba(0, 0, 255, 0.6));
+}
+
+.neon-icon.text-yellow-400 {
+  /* JavaScript Icon */
+  filter: drop-shadow(0 0 2px rgba(255, 255, 0, 0.8))
+    drop-shadow(0 0 5px rgba(255, 255, 0, 0.7))
+    drop-shadow(0 0 10px rgba(255, 255, 0, 0.6));
+}
+
+.neon-icon.text-green-500 {
+  /* MongoDB Icon */
+  filter: drop-shadow(0 0 2px rgba(0, 128, 0, 0.8))
+    drop-shadow(0 0 5px rgba(0, 128, 0, 0.7))
+    drop-shadow(0 0 10px rgba(0, 128, 0, 0.6));
+}
+
+.neon-icon.text-green-600 {
+  /* Node.js Icon */
+  filter: drop-shadow(0 0 2px rgba(0, 128, 0, 0.8))
+    drop-shadow(0 0 5px rgba(0, 128, 0, 0.7))
+    drop-shadow(0 0 10px rgba(0, 128, 0, 0.6));
 }

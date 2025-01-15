@@ -1,0 +1,40 @@
+
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7000 4000">
+	<title>362090493_a5d7a029-fc20-44f9-bee2-f9904b1f3655</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(885.9,-2217.32,3417.926,1365.585,4042.877,4155.676)">
+			<stop offset="0" stop-color="#0276db"/>
+			<stop offset="1" stop-color="#5efca1"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-576.16,-2515,2630.333,-602.581,1764.527,2891.198)">
+			<stop offset="0" stop-color="#0276db"/>
+			<stop offset="1" stop-color="#5efca1"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1964.096,-3450.98,3868.659,-2201.814,3028.018,5441.248)">
+			<stop offset="0" stop-color="#ff0066"/>
+			<stop offset="1" stop-color="#fef7a2"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #0a0a21 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { opacity: .2;fill: #020c6a } 
+		.s3 { fill: url(#g2) } 
+		.s4 { fill: url(#g3) } 
+		.s5 { fill: #5efca1 } 
+		.s6 { fill: #f9fcba } 
+	</style>
+	<g id="Layer_x5F_1">
+		<g id="_2254601279104">
+			<!-- <path fill-rule="evenodd" class="s0" d="m0 0h7000v4000h-7000z"/> -->
+			<path fill-rule="evenodd" class="s1" d="m6269.8 4000h-4255.9c107.6-1000.3 1019.2-1781.5 2127.9-1781.5 1108.7 0 2020.3 781.2 2128 1781.5z"/>
+			<path fill-rule="evenodd" class="s2" d="m4612.4 4000h-2598.5c92.2-856.5 773.7-1552.2 1663.7-1734.7 504.7 429.5 848.3 1021.8 929.9 1694.2z"/>
+			<path fill-rule="evenodd" class="s3" d="m3294 4000h-3294v-2926.8c387.6-271.7 870.5-433 1394.2-433 1276.7 0 2311.6 958.3 2311.6 2140.4 0 453.2-152.2 873.4-411.8 1219.4z"/>
+			<path fill-rule="evenodd" class="s2" d="m3294 4000h-3294v-1956.9c492.7-321.9 1080.4-495.6 1690.2-495.6 737 0 1416.7 253.5 1936.1 675.3 51.8 177.8 79.5 364.8 79.5 557.8 0 453.2-152.2 873.4-411.8 1219.4z"/>
+			<path fill-rule="evenodd" class="s4" d="m4218.6 4000h-4218.6v-1495c449.4-370.1 1041.4-595.1 1690.2-595.1 1308.2 0 2385.6 914.1 2528.3 2090.1z"/>
+			<path fill-rule="evenodd" class="s5" d="m3532.6 1966.3c-346-778.3-1173.1-1326.1-2138.4-1326.1-523.7 0-1006.6 161.3-1394.2 433 415.8-126.9 878-133.9 1324.1 7.4 534.9 169.5 947 520.6 1183.5 953.5 172.3 54.1 336.3 124.8 489.8 210.1 85.9 47.7 168.4 100 247.3 156.4 172.5 123.4 327.3 266.9 460.6 426.7q0.5-23.3 0.5-46.7c0-174.8-22.6-344.8-65.3-507.4-27.7-105.6-63.9-208.1-107.9-306.9z"/>
+			<path fill-rule="evenodd" class="s6" d="m3705.3 2827.3c-306.1-367-722.8-644.1-1197.7-793.2-256.6-80.5-531.5-124.2-817.4-124.2-631.3 0-1227.4 214-1690.2 595.1v31.6l5-25.5c434.8-245.2 950.1-336.3 1458.9-250.6 438.3 73.9 832.6 272.1 1135.7 566.3 324.4 314.8 531.1 727.6 571.4 1173.2h1047.5c-53.2-438.6-236.5-840.8-513.2-1172.7z"/>
+			<path fill-rule="evenodd" class="s5" d="m4135.9 2351.7c826.3 239.8 1384 901.2 1483.4 1648.3h650.5c-107.6-1000.3-1019.3-1781.5-2128-1781.5-162.4 0-320.7 16.7-472.8 48.5 155.5 11.8 311.9 39.6 466.9 84.7z"/>
+		</g>
+	</g>
+</svg>
