@@ -1,5 +1,6 @@
 "use client";
 
+// import { Typewriter } from "react-simple-typewriter";
 import { Typewriter } from "react-simple-typewriter";
 
 export default function VariousWorkingFields() {

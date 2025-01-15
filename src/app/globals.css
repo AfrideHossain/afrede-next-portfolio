@@ -12,13 +12,21 @@
     --background: #0a0a0a;
     --foreground: #ededed;
   }
-}
+}\
+
 
 body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 } */
+* {
+  scroll-snap-type: y mandatory;
+}
+
+html {
+  scroll-behavior: smooth;
+}
 
 .neon-icon {
   filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.8))

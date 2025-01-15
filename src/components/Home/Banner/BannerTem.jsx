@@ -2,7 +2,7 @@ import SvgBg from "@/assets/svgs/grbluor-1.svg";
 import Image from "next/image";
 import Socialicons from "./Socialicons";
 import Link from "next/link";
-import DynamicString from "./DynamicString";
+import VariousWorkingFields from "./VariousWorkingFields";
 
 export default function BannerTem() {
   return (
@@ -27,17 +27,18 @@ export default function BannerTem() {
                 {/* <span className="block">Full Stack </span>
                 <span className="block">Web Developer</span> */}
 
-                <DynamicString />
+                {/* <DynamicString /> */}
+                <VariousWorkingFields />
 
-                <p className="flex items-center gap-8">
-                  Developer
+                <div className="flex items-center gap-8">
+                  <p>Developer</p>
                   <div className="border border-gray-500 w-96"></div>
-                </p>
+                </div>
               </div>
               <div className="my-10">
                 <Link
                   href={"/"}
-                  className="p-5 rounded-xl border bg-gray-900 border-gray-500 text-sky-500 font-semibold text-base"
+                  className="text-base px-4 py-3 bg-gray-800 text-blue-400 font-medium rounded-lg border border-gray-600 shadow-lg"
                 >
                   Download Resume
                 </Link>

@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import Menu from "../../MenuComponents/Menu/Menu";
+import Menu from "../../Home/MenuComponents/Menu/Menu";
 import { HiMenu } from "react-icons/hi";
 import { AiOutlineClose } from "react-icons/ai";
 import { useState } from "react";
